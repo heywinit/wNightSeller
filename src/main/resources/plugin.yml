@@ -1,0 +1,8 @@
+name: wNightSeller
+version: '${project.version}'
+main: dev.winit.wnightseller.WNightSeller
+api-version: '1.21'
+authors: [heywinit]
+description: A custom plugin made for Mizt for spawning Citizens NPCs at night
+website: winit.dev
+depend: [Citizens]
